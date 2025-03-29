@@ -1,55 +1,52 @@
-Oma Kasten
+# Oma Kasten
 
-Bem-vindo ao repositório do projeto Oma Kasten!
+Bem-vindo ao repositório do projeto **Oma Kasten**!
 
-Sobre o Projeto
+## Sobre o Projeto
 
-O Oma Kasten (“Oma” significa "avó" em alemão e “Kasten” significa "caixa") é um projeto desenvolvido no contexto das atividades extensionistas obrigatórias das disciplinas 2CAW da Faeterj Rio. O objetivo principal é criar uma interface que apresente a marca e facilite a venda de produtos inspirados no conceito de aconchego e tradição, remetendo às lembranças de "coisas de vó", como bolos, cafés e cookies.
+**Oma Kasten** é um projeto que visa apresentar a marca e facilitar a venda de produtos inspirados nas lembranças aconchegantes das "coisas de vó" – como bolos, cafés e cookies. Desenvolvido no contexto das atividades extensionistas das disciplinas 2CAW da Faeterj Rio, o projeto busca promover a interação entre a universidade e a comunidade, incentivando o protagonismo dos alunos e o desenvolvimento da responsabilidade ética e social.
 
-Objetivos
+## Objetivos
 
-Criar uma identidade visual clássica e acolhedora para o projeto;
+- **Integração Universidade-Sociedade:** Promover a interação entre a universidade e a comunidade.
+- **Formação Cidadã:** Contribuir para a formação ética e social dos estudantes.
+- **Aplicação do Conhecimento:** Permitir que os alunos apliquem seus conhecimentos acadêmicos em prol da sociedade.
+- **Atendimento de Demandas Sociais:** Satisfazer as necessidades culturais e sociais da comunidade.
+- **Protagonismo Estudantil:** Estimular os alunos a proporem soluções para problemas sociais.
 
-Desenvolver um site intuitivo e funcional para apresentação da marca e venda de produtos;
+## Tecnologias e Ferramentas
 
-Prototipar inicialmente no Figma, definindo a estrutura do site antes da implementação;
+- **Design e Prototipagem:**
+  - **Figma:** Criação do protótipo da interface.
+  - **Canva:** Desenvolvimento da identidade visual (logotipos, paleta de cores, etc.).
+- **Desenvolvimento Web:**
+  - **HTML, CSS e JavaScript:** Para a implementação da interface.
 
-Garantir uma experiência de navegação simples, sem necessidade de login;
+## Estrutura do Site
 
-Criar páginas essenciais, como página inicial, sobre nós e catálogo de produtos;
+1. **Página Inicial:**  
+   Apresenta a marca, os principais produtos e a proposta do projeto.
+2. **Sobre Nós:**  
+   Detalha a inspiração e os valores que norteiam o Oma Kasten.
+3. **Catálogo de Produtos:**  
+   Exibe os itens disponíveis para venda.
+4. **Contato:**  
+   Informações para contato e redes sociais.
 
-Atender às diretrizes das atividades extensionistas, promovendo impacto positivo na comunidade.
+## Paleta de Cores
 
-Tecnologias Utilizadas
+- **Marrom:** Remete ao aconchego, tradição e aos sabores do café.
+- **Rosa Antigo:** Um tom clássico e nostálgico, que traz suavidade e carisma.
 
-Figma - Para a criação do protótipo do site.
+## Recursos Visuais
 
-HTML, CSS e JavaScript - Para o desenvolvimento da interface.
+Acesse os elementos visuais, logotipos e demais informações de design através do [Canva](https://www.canva.com/design/DAF-FS0a-Gk/LPwuD9sSSK553ZgdLmPVnA/edit?utm_content=DAF-FS0a-Gk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-Canva - Para criação da identidade visual e design.
+## Cronograma do Projeto
 
-Estrutura do Site
-
-Página Inicial - Apresentação da marca e principais produtos.
-
-Sobre Nós - Informações sobre a inspiração por trás do Oma Kasten.
-
-Catálogo de Produtos - Exibição dos itens disponíveis para venda.
-
-Contato - Formas de contato e possíveis redes sociais.
-
-Paleta de Cores
-
-Marrom - Representando aconchego, café e tradição.
-
-Rosa Antigo - Um tom clássico e suave, remetendo às memórias afetivas.
-
-Link para Recursos Visuais
-
-As logos e demais elementos visuais podem ser encontrados no Canva:Clique aqui para acessar
-
-Entregas do Projeto
-
-01/11/2024 - Primeira entrega (dados do projeto e atividade inicial);
-
-26/11/2024 - Entrega final (projeto completo, com evidências de desenvolvimento e ajustes).
+- **Primeira Entrega:**  
+  - **Data:** 01/11/2024  
+  - **Conteúdo:** Dados do projeto e desenvolvimento inicial (Atividade 1 do template).
+- **Entrega Final:**  
+  - **Data:** 26/11/2024  
+  - **Conteúdo:** Projeto completo, com evidências dos encontros e ajustes realizados.
