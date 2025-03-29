@@ -6,6 +6,9 @@ Bem-vindo ao repositório do projeto **Oma Kasten**!
 
 **Oma Kasten** é um projeto que visa apresentar a marca e facilitar a venda de produtos inspirados nas lembranças aconchegantes das "coisas de vó" – como bolos, cafés e cookies. Desenvolvido no contexto das atividades extensionistas das disciplinas 2CAW da Faeterj Rio, o projeto busca promover a interação entre a universidade e a comunidade, incentivando o protagonismo dos alunos e o desenvolvimento da responsabilidade ética e social.
 
+**Nome dos Integrantes:** Fabio Rodrigo Ortiz dos Santos, Marcos Ferreira de Souza, 
+Paulo Henrique de Oliveira ALves e Pedro Carvalho Barcellos.
+
 ## Objetivos
 
 - **Integração Universidade-Sociedade:** Promover a interação entre a universidade e a comunidade.
